@@ -1,0 +1,9 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "React Template",
+  "itemDisplayName": "ReactApp on App service Linux",
+  "description": "This template deploys a react web app on App service Linux",
+  "summary": "Deploys a react web app on App service Linux",
+  "githubUsername": "rramachand21",
+  "dateUpdated": "2017-02-14"
+}
